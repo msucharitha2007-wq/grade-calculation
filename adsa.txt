@@ -1,0 +1,18 @@
+1) a. Single source shortest path(adjacent matrix)
+   b. Knapsack(backtracking)
+2) a. Min heap 
+   b. Job sequencies
+3) a. BFS and DFS adjacency matrix
+   b. Merge sort
+4) a. Quick sort
+   b. Knapsack   backtracking
+5) a. Adjacency list
+   b. Bi- connected graph
+6) a. B-tree
+7) a. Max heap
+   b. Kanpaack(dynamic programming)
+8) a. N-queens
+   b. SINGLE SOURCE SHORTEST PATH(adj_list)
+9) AVL TREE
+10)a. Single source shortest path(adjacent matrix)
+   b .N-queens 

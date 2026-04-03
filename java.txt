@@ -1,0 +1,23 @@
+1) a. Write a Java program to demonstrate class and object creation.
+   b. Write a Java program to implement method overloading for calculating area of different shapes.
+2) a. Write a Java program to demonstrate constructor overloading.
+   b. Write a Java program to illustrate single inheritance.
+3) a. Write a Java program to demonstrate multilevel inheritance.
+   b. Write a Java program to demonstrate method overriding (runtime polymorphism).
+4) a. Write a Java program to demonstrate encapsulation using private data members.
+   b. Write a Java program to implement abstraction using an abstract class.
+5) a. Write a Java program to demonstrate interface implementation.
+   b. Write a Java program to handle exceptions using try, catch and finally.   
+6) a. Write a JAVA program to display default value of all primitive data type of JAVA. 
+   b. Write a JAVA program to search for an element in a given list of elements using binary search mechanism. 
+7) a. Write a java program that display the roots of a quadratic equation ax2+bx=0. Calculate the discriminate 
+      D and basing on value of D, describe the nature of root.  
+   b. Write a JAVA program using StringBuffer to delete, remove character. 
+8) a. Write a JAVA program that creates threads by extending Thread class. First thread display "Good Morning" 
+      every 1 sec, the second thread displays "Hello" every 2 seconds and the third display “Welcome” every 3 
+      seconds, (Repeat the same by implementing Runnable).   
+   b. Write a Program illustrating Daemon Threads.   
+9) a. Write a JAVA program that import and use the user defined packages. 
+   b.  Without writing any code, build a GUI that display text in label and image in an ImageView (use JavaFX) 
+10)a. Write a JAVA program Producer Consumer Problem.
+   b. Write a JAVA program give example for “super” keyword.

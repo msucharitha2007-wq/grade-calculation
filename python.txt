@@ -1,0 +1,31 @@
+1) a. Write a program to find the largest element among three Numbers.
+   b. Select any two columns from the above data frame, and observe the change in one attribute with respect to other 
+      attribute with scatter and plot operations in matplotlib.
+2) a. Write a Program to display all prime numbers within an interval .
+   b. Write a program to swap two numbers without using a temporary variable. 
+3) a. Write a program to count the number of vowels in a string (No control flow allowed).
+   b. Write a program to check if a given key exists in a dictionary or not. 
+4) a. Python program to demonstrate use of ndim, shape, size, dtype. 
+   b. Python program to demonstrate basic slicing, integer and Boolean indexing. 
+5) a. Write a program to sort words in a file and put them in another file. The output file should have only lower-case
+      words, so any upper-case words from source must be lowered.
+   b. Python program to print each line of a file in reverse order. 
+6) a. Demonstrate the following Operators in Python with suitable examples. 
+       i) Arithmetic Operators 
+      ii) Relational Operators 
+     iii) Assignment Operators
+      iv) Logical Operators 
+       v) Bit wise Operators 
+      vi) Ternary Operator 
+     vii) Membership Operators 
+    viii) Identity Operators
+   b. Write a program to add and multiply complex numbers.
+7) a. Write a program to define a function with multiple return values.
+   b. Demonstrate the following Operators in Python with suitable examples.
+8) a. Write a program to add a new key-value pair to an existing dictionary.
+   b. Python program to find min, max, sum, cumulative sum of array.
+9) a. Python program to compute the number of characters, words and lines in a file.
+   b. Write a program to print multiplication table of a given number. 
+10)a. Write a program to perform the given operations on a list: 
+      i) Addition ii) Insertion iii) slicing 
+   b. Write a program to perform any 5 built-in functions by taking any list.

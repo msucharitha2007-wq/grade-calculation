@@ -1,0 +1,30 @@
+1) a. Creation, altering and droping of tables and inserting rows into a table (use constraintswhile creating tables) 
+      example using SELECT command
+   b. Write a Java program to connect to a database using JDBC and delete values from it
+2) a. Queries (along with sub Queries) using ANY, ALL, IN, EXISTS,NOTEXISTS, UNION, INTERSET, Constraints. 
+      (Ex. Select the roll number and name of the student who secured fourth rank in the class).
+   b. Write a Java program to connect to a database using JDBC and insert values
+3) a. Queries using Aggregate functions (COUNT, SUM, AVG, MAX and MIN), 
+      GROUP BY, HAVING and Creation and dropping of Views.
+   b. Write a Java program that connects to a database using JDBC
+4) a. Queries using Conversion functions (to_char, to_number and to_date), string functions (Concatenation, lpad,
+      rpad, ltrim, rtrim, lower, upper, initcap, length, substr and instr), date functions (Sysdate, next_day, 
+      add_months, last_day, months_between,least, greatest, trunc, round, to_char, to_date)
+   b. Create a table and perform the search operation on table using indexing and non-indexing techniques.
+5) a. Create a simple PL/SQL program which includes declaration section, executable section and exception–Handling section
+      (Ex. Student marks can be selected from the table and printed for those who secured first class and an exception can 
+       be raised if no records were found).
+   b. Insert data into student table and use COMMIT, ROLLBACK and SAVEPOINT in PL/SQL block.
+6) a. Develop Programs using BEFORE and AFTER Triggers, Row and Statement Triggers and INSTEAD OF Triggers
+   b. Develop a program that includes the features NESTED IF, CASE and CASE expression. The program can be 
+      extended using the NULLIF and COALESCE functions.
+7) a. Program development using WHILE LOOPS, numeric FOR LOOPS, nested loops using ERROR Handling, 
+      BUILT –IN Exceptions, USE defined Exceptions, RAISE- APPLICATION ERROR.
+   b. Develop programs using features parameters in a CURSOR, FOR UPDATE
+      CURSOR, WHERE CURRENT of clause and CURSOR variables.
+8) a. Programs development using creation of procedures, passing parameters IN and OUT of PROCEDURES.
+   b. Program development using creation of stored functions, invoke functions in SQL Statements and write complex functions.
+9) a. Create a table and perform the search operation on table using indexing and non-indexing techniques.
+   b. Insert data into student table and use COMMIT, ROLLBACK and SAVEPOINT in PL/SQL block.
+10)a. Write a Java program to connect to a database using JDBC and delete values from it
+   b. Write a Java program to connect to a database using JDBC and insert values 

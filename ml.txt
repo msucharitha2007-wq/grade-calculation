@@ -1,0 +1,27 @@
+1) a. Compute Central Tendency Measures: Mean,Median, Mode Measure of Dispersion:Variance, Standard Deviation.
+   b. Demons trate the use of Expectation Maximization based clustering algorithm.
+2) a. Apply the following Pre-processing techniques for a given dataset.
+      a. Attribute selection
+      b. Handling Missing Values
+      c. Discretization
+      d. Elimination of Outliers
+   b. Demonstrate the use of Fuzzy C-Means Clustering.
+3) a. Apply KNN algorithm for classification and regression.
+   b. Implement the K-means algorithm and apply it to the data you selected.Evaluate performance by measuring the sum
+      of the Euclidean distance of each example fromits class center. Test the performance of the algorithm as a 
+      function of the parameter k.
+4) a. Demonstrate decision tree algorithm for a classification problem andperformparameter tuning for better results.
+   b. Demonstrate Multi-layer Perceptron algorithm for a classification problem.
+5) a. Demonstrate decision tree algorithm for a regression problem.
+   b. Apply Logistic regression algorithm for a classification problem.
+6) a. Apply Random Forest algorithm for classification and regression.
+   b. Demonstrate simple linear regression algorithm for a regression problem.
+7) a. Demonstrate Naïve Bayes Classification algorithm.
+   b. Apply Support Vector algorithm for classification.
+8) a. Apply KNN algorithm for classification and regression.
+   b. Demonstrate decision tree algorithm for a classification problem and performparameter tuning for better results.
+9) a. Demonstrate Naïve Bayes Classification algorithm.
+   b. Compute Central Tendency Measures: Mean,Median, Mode Measure of Dispersion:Variance, Standard Deviation.
+10)a. Apply KNN algorithm for classification and regression.
+   B. Apply Logistic regression algorithm for a classification problem.
+ 

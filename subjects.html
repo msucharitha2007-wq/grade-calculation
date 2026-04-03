@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Subjects</title>
+</head>
+<body>
+
+<h2>Subjects</h2>
+<div id="subjects"></div>
+
+<script>
+let sem = localStorage.getItem("semester");
+let div = document.getElementById("subjects");
+
+function goToMarks(sub){
+    localStorage.setItem("subject", sub.toLowerCase());
+    window.location.href = "marks.html";
+}
+
+if(sem === "2-1"){
+    div.innerHTML = `
+    <button onclick="goToMarks('python')">Python</button><br><br>
+    <button onclick="goToMarks('java')">Java</button><br><br>
+    <button onclick="goToMarks('adsa')">ADSA</button>`;
+}
+else if(sem === "2-2"){
+    div.innerHTML = `
+    <button onclick="goToMarks('dbms')">DBMS</button><br><br>
+    <button onclick="goToMarks('ml')">Machine Learning</button>`;
+}
+</script>
+
+<script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Marks Entry</title>
+</head>
+<body>
+
+<h2>Marks Entry</h2>
+
+<div id="typeSection"></div>
+<div id="studentSection"></div>
+<div id="questionNumbers"></div>
+<div id="questionDisplay"></div>
+<div id="exchangeSection"></div>
+<div id="marksSection"></div>
+
+<script src="script.js"></script>
+
+<script>
+if(!localStorage.getItem("subject")){
+    alert("Select subject first");
+    window.location.href = "subjects.html";
+} else {
+    showTypeSelection();
+}
+</script>
+
+</body>
+</html>
